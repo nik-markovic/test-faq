@@ -10,7 +10,7 @@
     A prompt like this can be used:
       
       ```
-      convert this cert and key into C #define IOTCONNECT_CERT and IOTCONNED_KEY:
+      convert this cert and key into C #define IOTCONNECT_CERT and IOTCONNECT_KEY:
       -----BEGIN CERTIFICATE-----
       MIIDWjCCAkKgAwIBAgIVAM95lTd9FQAGT86d51fgC74w3a74MA0GCSqGSIb3DQEB
       ...
