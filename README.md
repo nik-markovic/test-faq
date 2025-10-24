@@ -1,5 +1,16 @@
 # FAQ
 
+
+> [!TIP]
+> Tell the VSCode Copilot AI Agent to do it for you with the following prompt:
+> 
+> ```
+> Set IOTCONNECT_DEVICE_CERT and IOTCONNECT_DEVICE_KEY in app_config.h.
+> Use the instructions in the file and these PEM files:
+> (paste the cert and private key)
+> ```
+
+
 <details>
   <summary>How do I easily format my Certificate and Private Key pem into for a C config file</summary>
   Choose one of the following options depending on your preference:
